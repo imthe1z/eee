@@ -1,6 +1,6 @@
 link:www.baidu.com
 link:www.youtube.com
-web.bv22.online
+link:web.bv22.online
 
 
 
